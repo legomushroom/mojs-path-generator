@@ -1,0 +1,1 @@
+# mojs-path-generator
