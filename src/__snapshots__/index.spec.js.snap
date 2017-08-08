@@ -1,0 +1,27 @@
+exports[`test Component should mount 1`] = `
+<div>
+  <svg
+    height="500"
+    width="500">
+    <path
+      d="M150 0 L75 200 L225 200 Z"
+      fill="#000"
+      stroke="red"
+      strokeWidth="3" />
+  </svg>
+</div>
+`;
+
+exports[`test Named component should mount 1`] = `
+<div>
+  <svg
+    height="500"
+    width="500">
+    <path
+      d="M150 0 L75 200 L225 200 Z"
+      fill="#000"
+      stroke="red"
+      strokeWidth="3" />
+  </svg>
+</div>
+`;
